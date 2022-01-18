@@ -1,3 +1,4 @@
 連猴子都懂的Git命令
 ABC
 Dog bite pig
+Clone
